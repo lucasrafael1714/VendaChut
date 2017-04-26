@@ -13,7 +13,7 @@ import javax.persistence.Id;
 
 /**
  *
- * @author Lucas R.
+ * @author lucas
  */
 @Entity
 public class Chuteira implements Serializable{
